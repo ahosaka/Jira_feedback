@@ -10,13 +10,12 @@ Planning:
 2. Extract the data followings
   * Ticket num
   * My name
-  * My owen commetns
   * Reviewer name(Specific Jira users)
-  * Their comments
+  *comments from both myself and reviewers
   * Date?
   
-3. Put them togeter in CVS format(something like this)
+3. Put them togeter in CVS(or Json) format(something like this)
   
-  Ticket num, My name, My owen commetns, Reviewer name(Specific Jira users), Their comments, Date
+  Ticket num, My name, Reviewer name(Specific Jira users), comments from both myself and reviewers, Date
   
   
