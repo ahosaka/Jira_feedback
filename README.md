@@ -11,11 +11,11 @@ Planning:
   * Ticket num
   * My name
   * Reviewer name(Specific Jira users)
-  *comments from both myself and reviewers
+  * Comments from both myself and reviewers
   * Date?
   
 3. Put them togeter in CVS(or Json) format(something like this)
   
-  Ticket num, My name, Reviewer name(Specific Jira users), comments from both myself and reviewers, Date
+  Ticket num, My name, Reviewer name(Specific Jira users), Comments from both myself and reviewers, Date
   
   
